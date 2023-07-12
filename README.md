@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordansbenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="jordansbenjamin" /> </p>
 
-- 🌱 I’m currently learning **Python, Flask, Javascript**
+- 🌱 I’m currently learning: **Python, Flask, Javascript**
 
-- 💬 Ask me about **movies, cats, and tea**
+- 💬 Ask me about: **movies, cats, and tea**
 
-- 📫 How to reach me **jordansbenjamin@gmail.com**
+- 📫 Reach me at: **jordansbenjamin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

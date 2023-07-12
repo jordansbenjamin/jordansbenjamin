@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  Hi there 👋
+  # Hi there! 👋 I'm Jordan Benjamin
+  ---
+  ## I'm currently studying web dev and have a keen interest in all things tech
 </div>
 
 ![jordansbenjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordansbenjamin&show_icons=true&theme=transparent)

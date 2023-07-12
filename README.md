@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jordan Benjamin</h1>
-<h3 align="center">I'm based in Sydney, and currently studying web development!</h3>
+<h3 align="center">I'm based in Sydney, and currently enrolled in Coder Academy!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordansbenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="jordansbenjamin" /> </p>
 
 - 🌱 I’m currently learning: **Python, Flask, Javascript**
 
-- 💬 Ask me about: **movies, cats, and tea**
+- 💬 Ask me about: **movies, cats, and formula one**
 
 - 📫 Reach me at: **jordansbenjamin@gmail.com**
 

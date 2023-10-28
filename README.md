@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordansbenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="jordansbenjamin" /> </p>
 
-- 🌱 I’m currently learning: **Python, Flask, Javascript**
+- 🌱 I’m currently learning: **Typescript, Next.js, Express, MongoDB**
 - 📫 Reach me at: **jordansbenjamin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

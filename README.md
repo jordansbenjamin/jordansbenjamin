@@ -8,11 +8,24 @@
 ```javascript
 let jordan = {
   pronouns: "he" | "him",
+  location: "Sydney, Australia",
   languages: {
     human: ["english", "indonesian"],
     program: ["javascript", "Python"]
   },
-  interests: {
+  fieldsOfInterests: ["Web Development", "Machine Learning", "UX/UI"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"]
+    },
+    backEnd: {
+        js: ["Node", "Express"],
+        python: ["Flask"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "Prisma"],
+    misc: ["Supabase"]
+  },
+  personalInterests: {
     sports: ["formula 1", "football", "skiing", "swimming"],
   }
 }

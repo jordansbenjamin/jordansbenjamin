@@ -6,7 +6,7 @@
 ### A little about me...
 
 ```javascript
-let jordan = {
+const jordan = {
   pronouns: "he" | "him",
   location: "Sydney, Australia",
   languages: {

@@ -27,6 +27,7 @@ const jordan = {
   },
   personalInterests: {
     sports: ["formula 1", "football", "skiing", "swimming"],
+    cuisines: ["Indonesian", "italian", "Japanese", "korean", "middle eastern"]
   }
 }
 ```

@@ -33,7 +33,7 @@ const jordan = {
     human: ["english", "indonesian"],
     program: ["javascript", "Python"]
   },
-  fieldsOfInterests: ["web development", "machine learning", "app development" "UX/UI"],
+  fieldsOfInterests: ["web development", "app development", "UX/UI", "machine learning"],
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"]
@@ -61,7 +61,8 @@ const jordan = {
 ## 💡 What I'm up to now
 
 ### I'm working on:
-- A MERN stack [office-space booking and management web application](https://github.com/Space-Saver-Bookings).
+- A MERN stack [office-space booking and management web app](https://github.com/Space-Saver-Bookings).
+- A full-stack [hotel-booking and management system](https://github.com/jordansbenjamin/the-cabin-co)
 
 ### I’m currently learning: 
 - ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -71,7 +72,7 @@ const jordan = {
 
 ## 📡 Connect with me
 
-I love connecting and learning from other like-minded individuals or communities' experiences, whether they are related or random chats about life, I'm more than happy to meet you all. So reach out! ✌🏽
+I love connecting and learning from others' experiences, whether they are coding-related or random chats about life, I'm more than happy to meet you all. So reach out! ✌🏽
 
 📫 For a formal approach: **jordansbenjamin@gmail.com**
 

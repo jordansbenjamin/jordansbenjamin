@@ -69,13 +69,16 @@ const jordan = {
 - ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 - ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordansbenjamin&repo=Cinematica_API)](https://github.com/anuraghazra/Cinematica_API)
-
 ## 📡 Connect with me
 
-I love connecting and learning from other like minded individuals or communities experiences, whether its coding related or random chats about life, I'm more than happy to meet you all. So reach out! ✌🏽
+I love connecting and learning from other like-minded individuals or communities' experiences, whether they are related or random chats about life, I'm more than happy to meet you all. So reach out! ✌🏽
 
 📫 For a formal approach: **jordansbenjamin@gmail.com**
+
+---
+
+<h2 align="center">⬇️ Check out my pinned projects below! ⬇️
+</h2>
 
 <!--
 ## 🛠️ Technologies & Tools I've used

@@ -33,7 +33,7 @@ const jordan = {
     human: ["english", "indonesian"],
     program: ["javascript", "Python"]
   },
-  fieldsOfInterests: ["web development", "app development", "UX/UI", "machine learning"],
+  fieldsOfInterests: ["web development", "app development", "UX/UI"],
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"]
@@ -61,6 +61,8 @@ const jordan = {
 ## 💡 What I'm up to now
 
 ### I'm working on:
+- Just finished my first internship as a frontend developer for [Cogniss](https://www.cogniss.com/)!
+- Notangles, [an interactive drag-and-drop timetable planner](https://github.com/devsoc-unsw/notangles)
 - A MERN stack [office-space booking and management web app](https://github.com/Space-Saver-Bookings).
 - A full-stack [hotel-booking and management system](https://github.com/jordansbenjamin/the-cabin-co)
 

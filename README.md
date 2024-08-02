@@ -31,7 +31,7 @@ const jordan = {
   location: "Sydney, Australia",
   languages: {
     human: ["english", "indonesian"],
-    program: ["javascript", "Python"]
+    program: ["javascript", "typescript", "Python"]
   },
   fieldsOfInterests: ["web development", "app development", "UX/UI"],
   technologies: {
@@ -62,8 +62,8 @@ const jordan = {
 
 ### I'm working on:
 - Notangles, [an interactive drag-and-drop timetable planner](https://github.com/devsoc-unsw/notangles)
-- A MERN stack [office-space booking and management web app](https://github.com/Space-Saver-Bookings).
-- A full-stack [hotel-booking and management system](https://github.com/jordansbenjamin/the-cabin-co)
+- A MERN stack [office-space booking and management web app](https://github.com/Space-Saver-Bookings)
+<!-- A full-stack [hotel-booking and management system](https://github.com/jordansbenjamin/the-cabin-co) -->
 
 ### I’m currently learning: 
 - ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -75,7 +75,7 @@ const jordan = {
 
 I love connecting and learning from others' experiences, whether they are coding-related or random chats about life, I'm more than happy to meet you all. So reach out! ✌🏽
 
-📫 For a formal approach: **jordansbenjamin@gmail.com**
+📫 Email: **jordansbenjamin@gmail.com**
 
 ---
 

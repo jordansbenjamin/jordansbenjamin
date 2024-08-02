@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/jordansb/">
     <img src="https://img.shields.io/badge/-jordansb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordansb/">
   </a>
-  <a href="https://jordansbenjamin.com/">
+<!--   <a href="https://jordansbenjamin.com/">
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jordansbenjamin.com/">
-  </a>
+  </a> -->
   <a>
     <img src="https://img.shields.io/github/followers/jordansbenjamin?label=Follow&style=social">
   </a>

@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋🏽 I'm Jordan</h1>
-<h2 align="center">Junior Web Developer from Sydney 💻</h2>
+<h2 align="center">Full Stack Developer from Sydney 💻</h2>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jordansbenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="jordansbenjamin" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jordansb/">
+ <p align="center">
+  <!-- <a href="https://www.linkedin.com/in/jordansb/">
     <img src="https://img.shields.io/badge/-jordansb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordansb/">
-  </a>
+  </a> -->
 <!--   <a href="https://jordansbenjamin.com/">
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jordansbenjamin.com/">
   </a> -->
@@ -31,14 +31,15 @@ const jordan = {
   location: "Sydney, Australia",
   languages: {
     human: ["english", "indonesian"],
-    program: ["javascript", "typescript", "Python"]
+    program: ["javascript", "typescript", "python"]
   },
-  fieldsOfInterests: ["web development", "app development", "UX/UI"],
+  fieldsOfInterests: ["web development", "creative development", "mobile app development", "UX/UI"],
   technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"]
+    frontend: {
+      js: ["React", "Next.js"],
+      motion: ["GSAP", "framerMotion"],
     },
-    backEnd: {
+    backend: {
         js: ["Node", "Express"],
         python: ["Flask"]
     },
@@ -61,21 +62,23 @@ const jordan = {
 ## 💡 What I'm up to now
 
 ### I'm working on:
-- Notangles, [an interactive drag-and-drop timetable planner](https://github.com/devsoc-unsw/notangles)
-- A MERN stack [office-space booking and management web app](https://github.com/Space-Saver-Bookings)
+- An untitled [GenAI case study website](https://github.com/jordansbenjamin/untitled-genai-case-study)
+<!-- - Notangles, [an interactive drag-and-drop timetable planner](https://github.com/devsoc-unsw/notangles) -->
+- An untitled MERN stack [dashboard internal tool](https://github.com/jordansbenjamin/untitled-OKR-project)
+<!-- - A MERN stack [office-space booking and management web app](https://github.com/Space-Saver-Bookings) -->
 <!-- A full-stack [hotel-booking and management system](https://github.com/jordansbenjamin/the-cabin-co) -->
-
+              ,
 ### I’m currently learning: 
 - ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 - ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 - ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-- ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+<!-- - ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=) -->
 
 ## 📡 Connect with me
 
 I love connecting and learning from others' experiences, whether they are coding-related or random chats about life, I'm more than happy to meet you all. So reach out! ✌🏽
 
-📫 Email: **jordansbenjamin@gmail.com**
+📫 Email: **jordansbdev@gmail.com**
 
 ---
 

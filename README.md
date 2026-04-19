@@ -33,7 +33,7 @@ const jordan = {
     human: ["english", "indonesian"],
     program: ["javascript", "typescript", "python"]
   },
-  fieldsOfInterests: ["web development", "creative development", "mobile app development", "UX/UI"],
+  fieldsOfInterests: ["full stack development", "creative development", "mobile app development", "UX/UI"],
   technologies: {
     frontend: {
       js: ["React", "Next.js"],
@@ -69,11 +69,13 @@ const jordan = {
 <!-- A MERN stack [office-space booking and management web app](https://github.com/Space-Saver-Bookings) -->
 <!-- A full-stack [hotel-booking and management system](https://github.com/jordansbenjamin/the-cabin-co) -->
 
+<!--
 ### I’m currently learning: 
 - ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
 - ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 - ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
 - ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+-->
 
 ## 📡 Connect with me
 

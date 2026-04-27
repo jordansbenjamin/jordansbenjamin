@@ -33,7 +33,7 @@ const jordan = {
     human: ["english", "indonesian"],
     program: ["javascript", "typescript", "python"]
   },
-  fieldsOfInterests: ["full stack development", "creative development", "mobile app development", "UX/UI"],
+  fieldsOfInterests: ["fullstack development", "creative development", "mobile app development", "UX/UI"],
   technologies: {
     frontend: {
       js: ["React", "Next.js"],
@@ -62,7 +62,7 @@ const jordan = {
 ## 💡 What I'm up to now
 
 ### I'm working on:
-- InstaLog, an [instant JIRA timesheet logger](https://github.com/jordansbenjamin/instalog)
+- instalog, an [instant JIRA timesheet logger](https://github.com/jordansbenjamin/instalog)
 - An untitled [GenAI case study website](https://github.com/jordansbenjamin/untitled-genai-case-study)
 <!-- - Notangles, [an interactive drag-and-drop timetable planner](https://github.com/devsoc-unsw/notangles) -->
 - An untitled MERN stack [dashboard internal tool](https://github.com/jordansbenjamin/untitled-OKR-project)

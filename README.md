@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋🏽 I'm Jordan</h1>
 <h2 align="center">Full Stack Developer from Sydney 💻</h2>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jordansbenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="jordansbenjamin" />
-</p>
+</p> -->
 
  <p align="center">
   <!-- <a href="https://www.linkedin.com/in/jordansb/">
@@ -12,9 +12,9 @@
 <!--   <a href="https://jordansbenjamin.com/">
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jordansbenjamin.com/">
   </a> -->
-  <a>
+  <!-- <a>
     <img src="https://img.shields.io/github/followers/jordansbenjamin?label=Follow&style=social">
-  </a>
+  </a> -->
   
   <!--
   <a href="https://twitter.com/intent/follow?screen_name=jordansbenjamin">
